@@ -1,4 +1,3 @@
-
 # EJERCICIO CLOUSURE
 
 Modificar el siguiente script usando closures para que se ejecute sin problemas.
