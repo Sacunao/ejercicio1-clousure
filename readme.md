@@ -2,6 +2,7 @@
 # EJERCICIO CLOUSURE
 
 Modificar el siguiente script usando closures para que se ejecute sin problemas.
+
 var num2 = 0;
 
 function suma(num1) {
@@ -19,6 +20,7 @@ console.log(suma12(76)) // Debería mostrar 88 de resultado.
 ##RESOLUCIÓN:
 
 Tal como está la función y la mandamos a inspeccionar encontramos la siguiente imagen:
+
 ![FLUJOGRAMA](http://2.1m.yt/nJdADev.jpg "Flujograma")
 
 
